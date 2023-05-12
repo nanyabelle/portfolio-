@@ -103,17 +103,17 @@
 /* 1. TEMPLATE BACKGROUNDS */
 /* 1.1. home IMG BACKGROUND */
 .section-bg-home {
-background-image: url(../img/background/home-bg.jpg);
+background-image: url(../img/background/hero-bg-22.jpg);
 }
 
 .section-bg-home.section-bg-home-light {
-background-image: url(../img/background/home-light-bg.jpg);
+background-image: url(../img/background/hero-bg-22.jpg);
 }
 
 
 /* 1.2. about IMG BACKGROUND */
 .about-bg {
-background-image: url(../img/about/about-bg.jpg);
+background-image: url(../img/about/about2-bg.jpg);
 }
 
 
@@ -150,7 +150,7 @@ background-image: url(../img/works/voice\ demo\ blu\ background.jpg);
 
 
 .works-page-img-carousel-item-2 {		
-background-image: url(../img/works/flyer.jpg);
+background-image: url(../img/works/flyer\ \(2\).jpg);
 }
 
 .works-page-img-carousel-item-3 {	
@@ -158,75 +158,75 @@ background-image: url(../img/works/radio\ advert.jpg);
 }
 
 .works-page-img-carousel-item-4 {		
-background-image: url(../img/works/video\ ad.jpg);
+background-image: url(../img/works/video\ ad.jpeg);
 }
 
 .works-page-img-carousel-item-5 {		
-background-image: url(../img/works/animation\ voice\ over\ image.jpg);
+background-image: url(../img/works/animation\ voice\ over.jpeg);
 }
 
 .works-page-img-carousel-item-6 {		
-background-image: url(../img/works/);
+background-image: url(../img/works/website\ content\ white.jpeg);
 }
 
 .works-page-img-carousel-item-7 {	
-background-image: url(../img/works/works-page-img-carousel-item-7.jpg);
+background-image: url(../img/works/real\ estate.jpeg);
 }
 
 .works-page-img-carousel-item-8 {		
-background-image: url(../img/works/works-page-img-carousel-item-8.jpg);
+background-image: url(../img/works/wbsite\ content\ blue.jpg);
 }
 
-/* .works-page-img-carousel-item-9 {		
-background-image: url(../img/works/works-page-img-carousel-item-9.jpg);
+.works-page-img-carousel-item-9 {		
+background-image: url(../img/works/calender\ blue.jpeg);
 }
 
 .works-page-img-carousel-item-10 {		
-background-image: url(../img/works/works-page-img-carousel-item-10.jpg);
+background-image: url(../img/works/inspirational\ image.jpeg);
 }
 
 .works-page-img-carousel-item-11 {		
-background-image: url(../img/works/works-page-img-carousel-item-11.jpg);
+background-image: url(../img/works/legal.jpg);
 }
 
 .works-page-img-carousel-item-12 {		
-background-image: url(../img/works/works-page-img-carousel-item-12.jpg);
-} */
+background-image: url(../img/works/tablet-with-icons-background.jpg);
+}
 
 
 /* 1.5. news IMG carousel IMG BACKGROUND */
 .news-page-img-carousel-item-1 {		
-background-image: url(../img/news/social-media-team-using-digital-tablet-with-social-media-icons-desk.jpg);
+background-image: url(../img/services/service\ 1.jpg);
 }
 
 .news-page-img-carousel-item-2 {		
-background-image: url(../img/news/billboard\ original.jpg);
+background-image: url(../img/works/bilboards.jpeg);
 }
 
 .news-page-img-carousel-item-3 {	
-background-image: url(../img/news/digital-marketing.jpg);
+background-image: url(../img/works/website\ content\ creation\ blue.jpeg);
 }
 
 .news-page-img-carousel-item-4 {		
-background-image: url(../img/works/editors-keys-3CiBycqLHCc-unsplash.jpg);
+background-image: url(../img/works/voice\ over\ white.jpeg);
 }
 
 
 /* 1.5.1. news panel left bg IMG BACKGROUND */
 .panel-left.panel-left-bg-1 {
-background-image: url(../img/news/social-media-team-using-digital-tablet-with-social-media-icons-desk.jpg);
+background-image: url(../img/services/service\ 1.jpg);
 }
 
 .panel-left.panel-left-bg-2 {
-background-image: url(../img/news/billboard\ original.jpg);
+background-image: url(../img/works/bilboards.jpeg);
 }
 
 .panel-left.panel-left-bg-3 {
-background-image: url(../img/news/digital-marketing.jpg);
+background-image: url(../img/works/website\ content\ creation\ blue.jpeg);
 }
 
 .panel-left.panel-left-bg-4 {
-background-image: url(../img/works/editors-keys-3CiBycqLHCc-unsplash.jpg);
+background-image: url(../img/works/voice\ over\ white.jpeg);
 }
 
 
